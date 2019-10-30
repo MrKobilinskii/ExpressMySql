@@ -6,3 +6,9 @@ node_modules
 
 # Ignore SASS config files
 .sass-cache
+
+#Ignore vue files
+/client
+
+# Ignore prettier
+.prettierrc
